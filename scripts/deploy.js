@@ -13,3 +13,5 @@ main()
     console.error(error);
     process.exit(1);
   });
+
+//  npx hardhat run --network goerli scripts/deploy.js
